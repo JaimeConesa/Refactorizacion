@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Usuario
+ * @author Jaime Conesa Ponce
  */
 public class EJ3 {
 public static void main(String[] args) {
